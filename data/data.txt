@@ -1,0 +1,9 @@
+1.0 2.5
+2.0 3.7
+3.0 4.2
+# Or with commas:
+1.0,2.5
+2.0,3.7
+3.0,4.2
+
+<!-- making 4 lil sections for the different types of gate params -->
